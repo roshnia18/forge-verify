@@ -1,11 +1,20 @@
 import os, json, re
+import streamlit as st
 from dotenv import load_dotenv
 from ingest import fetch_docs
 from groq import Groq
 
+
 load_dotenv()
 
-gclient = Groq(api_key=os.getenv("GROQ_API_KEY"))
+def _get_key():
+    try:
+        return st.secrets["GROQ_API_KEY"]
+    except Exception:
+        return os.getenv("GROQ_API_KEY")
+
+gclient = Groq(api_key=_get_key())
+
 MODELS = ["openai/gpt-oss-120b", "openai/gpt-oss-20b"]
 
 STOPWORDS = {"the", "and", "for", "that", "with", "from", "this", "have", "has", "was",
