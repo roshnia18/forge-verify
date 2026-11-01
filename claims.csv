@@ -1,0 +1,20 @@
+claim,expected
+The Cabinet approved Dearness Allowance for central government employees.,supported
+"The Union Cabinet approved Semicon 2.0 with an outlay of Rs 1,27,500 crore.",supported
+"The Cabinet approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of Rs 62,500 crore.",supported
+"The Cabinet approved the Modified UDAN scheme with a total outlay of Rs 28,840 crore.",supported
+"The Union Cabinet approved a Rs 37,500 crore incentive scheme for coal gasification projects.",supported
+The Cabinet approved continuation of the PM-KISAN scheme from 2026-27 to 2030-31 with an outlay of Rs 3.15 lakh crore.,supported
+"The Union Cabinet approved Semicon 2.0 with an outlay of Rs 90,000 crore.",contradicted
+"The Cabinet approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of Rs 12,500 crore.",contradicted
+"The Cabinet approved the Modified UDAN scheme with a total outlay of Rs 8,840 crore.",contradicted
+"The Union Cabinet approved a Rs 7,500 crore incentive scheme for coal gasification projects.",contradicted
+The Cabinet approved the Modified UDAN scheme for a period of five years.,contradicted
+"The Union Cabinet approved Semicon 2.0 with an outlay of Rs 1,27,500 crore and it will create one crore jobs by next year.",partially_supported
+"The Cabinet approved the Modified UDAN scheme with an outlay of Rs 28,840 crore and it will make all domestic flights free.",partially_supported
+"The Union Cabinet approved a Rs 37,500 crore coal gasification scheme and petrol prices will fall by Rs 10 per litre next month.",partially_supported
+"The Indian government has banned all cash transactions above Rs 10,000 starting this month.",insufficient_evidence
+"The government will deposit Rs 15,000 per month into the account of every woman in India from next week.",insufficient_evidence
+"The Cabinet approved a Rs 5,00,000 crore bridge connecting Chennai and Colombo.",insufficient_evidence
+All mobile phones without a government sticker will be blocked in India after 30 November.,insufficient_evidence
+The Cabinet approved free electric scooters for every college student in India.,insufficient_evidence
